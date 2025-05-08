@@ -15,8 +15,9 @@ The following steps are only for _one_ of the group members to perform.
 ## Getting Started
 
 1. Create the `.env` by using `.env.example` as a reference: `cp .env.example .env`
-2. Update the .env file with your correct local information 
-  - username: `final` // Making changes to rename the username to final instead of labber
+2. Update the .env file with your correct local information
+// Making changes to rename the username and password to final instead of labber. And renamming the database to final-db
+  - username: `final` 
   - password: `final` 
   - database: `final-db`
 3. Install dependencies: `npm i`
