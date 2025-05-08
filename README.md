@@ -16,7 +16,7 @@ The following steps are only for _one_ of the group members to perform.
 
 1. Create the `.env` by using `.env.example` as a reference: `cp .env.example .env`
 2. Update the .env file with your correct local information
- <!--Changing the username and password to final instead of labber. And renaming the database to final-db--> 
+ [//]: # (Changing the username and password to final instead of labber. And renaming the database to final-db)
   - username: `final` 
   - password: `final` 
   - database: `final-db`
