@@ -16,9 +16,9 @@ The following steps are only for _one_ of the group members to perform.
 
 1. Create the `.env` by using `.env.example` as a reference: `cp .env.example .env`
 2. Update the .env file with your correct local information 
-  - username: `labber` 
-  - password: `labber` 
-  - database: `midterm`
+  - username: `final` // Making changes to rename the username to final instead of labber
+  - password: `final` 
+  - database: `final-db`
 3. Install dependencies: `npm i`
 4. Reset database: `npm run db:reset`  
   - Check the db folder to see what gets created and seeded in the DB
